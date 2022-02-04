@@ -14,6 +14,9 @@ CLI commands
 3. Type `mongod` to start the MongoDB server on your local machine
 5. Run `node server.js` to connect to server.
 
+## Application
+https://rocky-forest-66627.herokuapp.com/
+
 ## Usage:
 User will be able to checkout the website and view some content. To view all the content and interact with other users, the user will need to sign-up and create an account. Once the user has an account, the user will be able to post travels, make friends, and react to others content by up-voting or down-voting. 
 
